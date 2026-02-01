@@ -24416,3 +24416,4 @@ const Qk = ["sunny", "rainy", "cloudy"],
   },
   bv = Gt(yv, [["__scopeId", "data-v-e2ae1d50"]]);
 yh(bv).mount("#app");
+() => {};
