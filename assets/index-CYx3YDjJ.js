@@ -1338,6 +1338,7 @@ function ps(e, t, n, r = !0) {
 function zd(e, t, n, r = !0, s = !1) {
   if (s) throw e;
   console.error(e);
+  console.log(e);
 }
 const Ae = [];
 let st = -1;
